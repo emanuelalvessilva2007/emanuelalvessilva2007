@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @emanuelalvessilva2007
+- 👀 I’m interested in  Front-end
+- 🌱 I’m currently learning  Html,Css,JavaScript
+- 💞️ I’m looking to collaborate on  em qualquer projeto 
+- 📫 How to reach me  E-mail: alvesemanuel2022@gmail.com
